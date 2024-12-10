@@ -1,14 +1,16 @@
-import { useState } from 'react'
 import './App.css'
-import Person from './components/Person'
-import PersonsGroup from './components/PersonsGroup'
+import Home from './components/Home'
+
+
+
+
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-      <PersonsGroup/>
+     <Home/>
     </>
   )
 }
