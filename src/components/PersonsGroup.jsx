@@ -2,9 +2,9 @@ import Person from "./Person"
 
 function PersonsGroup(){
     return <>
-        <Person name={"emiliano"} surname={"Polanco"} age={18}></Person>
-      <Person name={"Catalina"} surname={"Polanco"} age={42}></Person>
-      <Person name={"Ciro"} surname={"bqqueri"} age={3}></Person>
+        <Person name={"Emiliano"} surname={"Polanco"} age={18}></Person>
+        <Person name={"Catalina"} surname={"Scorza"} age={22}></Person>
+        <Person name={"Isaac"} surname={"Arola"} age={13}></Person>
       
     </>
 }
