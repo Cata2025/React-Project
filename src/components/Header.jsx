@@ -2,9 +2,9 @@ import NormalButton from "./NormalButton"
 
 function Header (){
     return <>
-    <h1>Pizeria Italia</h1>
-           <img src="./src/assets/pizza.jpg" alt="Un trozo de pizza" /> <br />
-           
+    <h1>Pizzeria Italia</h1>
+           <img src="./src/assets/pizza.jpg" alt="Un trozo de pizza" /> <br /> <br />
+
            <NormalButton/>
         
             </>

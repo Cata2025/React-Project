@@ -4,21 +4,21 @@ import DishCard from "./DishCard";
 const dishes = [
     {
       id:1,
-      name:'Tallarine',
+      name:'Pizza de la casa',
       description:'Este es el plato 1',
-      price:10
+      price:35
     },
     {
       id:2,
-      name:'plato 2',
+      name:'Ravioli',
       description:'Este es el plato 2',
-      price:20
+      price:25
     },
     {
       id:3,
-      name:'plato 3',
+      name:'Tallarine',
       description:'Este es el plato 3',
-      price:15
+      price:20
     }
   ]
 
